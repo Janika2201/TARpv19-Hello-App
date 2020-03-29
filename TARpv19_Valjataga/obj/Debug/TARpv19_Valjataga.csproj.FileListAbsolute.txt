@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\TARpv19_Valjataga\TARpv19_Valjataga\bin\Debug\TARpv19_Valjataga.exe.config
+C:\Users\Lenovo\source\repos\TARpv19_Valjataga\TARpv19_Valjataga\bin\Debug\TARpv19_Valjataga.exe
+C:\Users\Lenovo\source\repos\TARpv19_Valjataga\TARpv19_Valjataga\bin\Debug\TARpv19_Valjataga.pdb
+C:\Users\Lenovo\source\repos\TARpv19_Valjataga\TARpv19_Valjataga\obj\Debug\TARpv19_Valjataga.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\TARpv19_Valjataga\TARpv19_Valjataga\obj\Debug\TARpv19_Valjataga.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TARpv19_Valjataga\TARpv19_Valjataga\obj\Debug\TARpv19_Valjataga.exe
+C:\Users\Lenovo\source\repos\TARpv19_Valjataga\TARpv19_Valjataga\obj\Debug\TARpv19_Valjataga.pdb
